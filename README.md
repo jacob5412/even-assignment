@@ -1,2 +1,1 @@
-# even-assignment
-Assignment for Even's Data Analyst role
+# Assignment for Even's Data Analyst role
